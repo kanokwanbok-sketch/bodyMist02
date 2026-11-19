@@ -1,0 +1,102 @@
+[
+  {
+    "id": "spray-fresh-30",
+    "name": "Body Spray Fresh 30ml",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสดชื่น โปร่งสะอาด เติมความรู้สึกตื่นตัวและเบาสบายตลอดวัน"
+  },
+  {
+    "id": "spray-fresh-100",
+    "name": "Body Spray Fresh 100ml",
+    "mood": "fresh",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/fresh.jpg",
+    "description": "กลิ่นสดชื่น โปร่งสะอาด เติมความรู้สึกตื่นตัวและเบาสบายตลอดวัน"
+  },
+  {
+    "id": "spray-sweet-30",
+    "name": "Body Spray Sweet 30ml",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหวานละมุน อ่อนโยน นุ่มนวล ให้ความรู้สึกอบอุ่นและน่าประทับใจ"
+  },
+  {
+    "id": "spray-sweet-100",
+    "name": "Body Spray Sweet 100ml",
+    "mood": "sweet",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/sweet.jpg",
+    "description": "กลิ่นหวานละมุน อ่อนโยน นุ่มนวล ให้ความรู้สึกอบอุ่นและน่าประทับใจ"
+  },
+  {
+    "id": "spray-confident-30",
+    "name": "Body Spray Confident 30ml",
+    "mood": "confident",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นสุขุม มั่นใจ มีเสน่ห์ ช่วยเสริมบุคลิกให้โดดเด่นอย่างมีระดับ"
+  },
+  {
+    "id": "spray-confident-100",
+    "name": "Body Spray Confident 100ml",
+    "mood": "confident",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/confident.jpg",
+    "description": "กลิ่นสุขุม มั่นใจ มีเสน่ห์ ช่วยเสริมบุคลิกให้โดดเด่นอย่างมีระดับ"
+  },
+  {
+    "id": "spray-romance-30",
+    "name": "Body Spray Romance 30ml",
+    "mood": "romance",
+    "type": "spray",
+    "size": "30ml",
+    "price": 89,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นหอมอ่อนหวาน โรแมนติก นุ่มนวล ชวนให้จดจำ"
+  },
+  {
+    "id": "spray-romance-100",
+    "name": "Body Spray Romance 100ml",
+    "mood": "romance",
+    "type": "spray",
+    "size": "100ml",
+    "price": 199,
+    "image": "images/romance.jpg",
+    "description": "กลิ่นหอมอ่อนหวาน โรแมนติก นุ่มนวล ชวนให้จดจำ"
+  },
+  {
+    "id": "rollon-fresh",
+    "name": "Body Roll-on Fresh",
+    "mood": "fresh",
+    "type": "rollon",
+    "size": "ระบุขนาดภายหลัง",
+    "price": 149,
+    "image": "images/fresh.jpg",
+    "description": "โรลออนกลิ่นสดชื่น โปร่งสะอาด พกพาสะดวก เหมาะสำหรับเติมความมั่นใจระหว่างวัน"
+  },
+  {
+    "id": "rollon-sweet",
+    "name": "Body Roll-on Sweet",
+    "mood": "sweet",
+    "type": "rollon",
+    "size": "ระบุขนาดภายหลัง",
+    "price": 149,
+    "image": "images/sweet.jpg",
+    "description": "โรลออนกลิ่นหวานละมุน อ่อนโยน ให้ความรู้สึกหอมสะอาดและอบอุ่น"
+  }
+]

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ขอบคุณที่สั่งซื้อ — Body Scent</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600&family=Noto+Serif+Thai:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    :root { --font-display: 'Playfair Display', 'Noto Serif Thai', Georgia, serif; }
+    h1, h2, h3 { letter-spacing: 0; }
+    a:focus-visible { outline: 2px solid var(--color-bronze); outline-offset: 3px; }
+    .thanks { min-height: calc(100svh - 83px - 150px); display: grid; align-items: center; padding-block: var(--section-space); }
+    .thanks__inner { max-width: 520px; margin-inline: auto; text-align: center; }
+    .thanks h1 { font-size: clamp(32px, 5vw, 52px); line-height: 1.3; }
+    .thanks .mood-mark { margin-inline: auto; }
+    .thanks p { color: var(--color-muted); }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container navbar">
+      <a class="brand" href="index.html">Body Scent</a>
+      <nav class="nav-links" aria-label="เมนูหลัก">
+        <a href="index.html">หน้าแรก</a>
+        <a href="product.html">สินค้า</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="thanks">
+    <div class="container">
+      <div class="thanks__inner">
+        <h1>ขอบคุณที่สั่งซื้อ</h1>
+        <span class="mood-mark"></span>
+        <p>เราได้รับคำสั่งซื้อของคุณแล้ว และจะติดต่อกลับทางเบอร์โทรหรือ Line ที่ให้ไว้เพื่อยืนยันรายการ</p>
+        <a class="button button--outline" href="index.html" style="margin-top: 12px;">กลับหน้าแรก</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer__bottom" style="border-top: 0; padding-top: 0;">
+        <span>Body Scent</span>
+        <span>&copy; 2026 Body Scent</span>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

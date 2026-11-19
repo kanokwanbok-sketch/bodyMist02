@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>สินค้าทั้งหมด — Body Scent</title>
+  <meta name="description" content="น้ำหอมฉีดตัวและโรลออน Body Scent เลือกกรองตามอารมณ์ได้">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;500;600&family=Noto+Serif+Thai:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    :root { --font-display: 'Playfair Display', 'Noto Serif Thai', Georgia, serif; }
+    h1, h2, h3 { letter-spacing: 0; }
+    a:focus-visible, button:focus-visible { outline: 2px solid var(--color-bronze); outline-offset: 3px; }
+    .page-title { padding-block: clamp(40px, 6vw, 76px) clamp(24px, 3vw, 36px); }
+    .page-title h1 { font-size: clamp(32px, 5vw, 56px); line-height: 1.3; }
+    .page-title p { max-width: 520px; margin: 16px 0 0; color: var(--color-muted); }
+    #filter-bar { margin-bottom: clamp(28px, 4vw, 44px); }
+    .product-card__info .button { margin-top: 16px; }
+    .product-card__image img { background: var(--color-cream); }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container navbar">
+      <a class="brand" href="index.html">Body Scent</a>
+      <nav class="nav-links" aria-label="เมนูหลัก">
+        <a href="index.html">หน้าแรก</a>
+        <a href="product.html">สินค้า</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="container page-title">
+      <h1>สินค้าทั้งหมด</h1>
+      <p>น้ำหอมฉีดตัวและโรลออน เลือกกรองตามอารมณ์ที่ตรงกับคุณ</p>
+    </section>
+
+    <section class="container" style="padding-bottom: var(--section-space);">
+      <div id="filter-bar" class="filter-row" role="group" aria-label="กรองตามอารมณ์"></div>
+      <div id="product-list" class="product-grid" aria-live="polite">
+        <p class="text-muted" style="grid-column: 1 / -1;">กำลังโหลดสินค้า...</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer__bottom" style="border-top: 0; padding-top: 0;">
+        <span>Body Scent</span>
+        <span>&copy; 2026 Body Scent</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
