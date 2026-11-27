@@ -6,7 +6,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "fresh.jpeg",
+    "image": "fresh.jpg",
     "description": "กลิ่นสดชื่น โปร่งสะอาด เติมความรู้สึกตื่นตัวและเบาสบายตลอดวัน"
   },
   {
@@ -16,7 +16,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "fresh.jpeg",
+    "image": "fresh.jpg",
     "description": "กลิ่นสดชื่น โปร่งสะอาด เติมความรู้สึกตื่นตัวและเบาสบายตลอดวัน"
   },
   {
@@ -26,7 +26,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "sweet.jpeg",
+    "image": "sweet.jpg",
     "description": "กลิ่นหวานละมุน อ่อนโยน นุ่มนวล ให้ความรู้สึกอบอุ่นและน่าประทับใจ"
   },
   {
@@ -36,7 +36,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "sweet.jpeg",
+    "image": "sweet.jpg",
     "description": "กลิ่นหวานละมุน อ่อนโยน นุ่มนวล ให้ความรู้สึกอบอุ่นและน่าประทับใจ"
   },
   {
@@ -46,7 +46,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "confident.jpeg",
+    "image": "confident.jpg",
     "description": "กลิ่นสุขุม มั่นใจ มีเสน่ห์ ช่วยเสริมบุคลิกให้โดดเด่นอย่างมีระดับ"
   },
   {
@@ -56,7 +56,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "confident.jpeg",
+    "image": "confident.jpg",
     "description": "กลิ่นสุขุม มั่นใจ มีเสน่ห์ ช่วยเสริมบุคลิกให้โดดเด่นอย่างมีระดับ"
   },
   {
@@ -66,7 +66,7 @@
     "type": "spray",
     "size": "30ml",
     "price": 89,
-    "image": "romance.jpeg",
+    "image": "romance.jpg",
     "description": "กลิ่นหอมอ่อนหวาน โรแมนติก นุ่มนวล ชวนให้จดจำ"
   },
   {
@@ -76,7 +76,7 @@
     "type": "spray",
     "size": "100ml",
     "price": 199,
-    "image": "romance.jpeg",
+    "image": "romance.jpg",
     "description": "กลิ่นหอมอ่อนหวาน โรแมนติก นุ่มนวล ชวนให้จดจำ"
   },
   {
@@ -86,7 +86,7 @@
     "type": "rollon",
     "size": "ระบุขนาดภายหลัง",
     "price": 149,
-    "image": "fresh.jpeg",
+    "image": "fresh.jpg",
     "description": "โรลออนกลิ่นสดชื่น โปร่งสะอาด พกพาสะดวก เหมาะสำหรับเติมความมั่นใจระหว่างวัน"
   },
   {
@@ -96,7 +96,7 @@
     "type": "rollon",
     "size": "ระบุขนาดภายหลัง",
     "price": 149,
-    "image": "sweet.jpeg",
+    "image": "sweet.jpg",
     "description": "โรลออนกลิ่นหวานละมุน อ่อนโยน ให้ความรู้สึกหอมสะอาดและอบอุ่น"
   }
 ]
